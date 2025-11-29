@@ -102,12 +102,12 @@ Vue similaire à la Figure 3.1 du rapport ✦ :
 /
 ├─ Optimisation_TB.py
 ├─ README.md
-├─ scenarios_timestamp/
+├─ (fichiers générés automatiquement)scenarios_timestamp/
 │   ├─ machines_physiques.txt
 │   ├─ machines_virtuelles_1.txt
 │   ├─ machines_virtuelles_2.txt
 │   └─ ...
-└─ fichiers générés automatiquement
+ 
 
 
 
